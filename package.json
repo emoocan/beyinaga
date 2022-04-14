@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node voxicode.js"
+    "start": "node uptime.js"
   },
   "dependencies": {
     "discord.js": "^12.5.1",
@@ -17,7 +17,7 @@
     "node": "12.x",
     "author": "Voxic",
     "license": "ISC",
-    "description": "Voxic Code Uptime Bot Altyapısı"
+    "description": "Codeal Uptime Bot Altyapısı"
   },
   "license": "MIT"
 }
