@@ -1,7 +1,14 @@
-💫 **Uptime Bot Altyapısı ;**
+Projeye Hoşgeldiniz!
+=================
 
-`Voxic`#6541` **Tarafından Kodlanmıştır !**
+Log (Yani App Status, Tools) Kısmı Sürekli Dönüyor Dert Etme , Botun Çalışması İçin `ayarlar.json` Kısmına Sakın Dokunma.
 
-📛 **İzinsiz Paylaşmak Kesinlikle Yasaktır Paylaşmak İsterseniz Discord Üzerinden Bana Ulaşmanız Gerek. Yoksa Gerekli Yaptırımlar Uygulanır**
+Ama Sakın Api Keye Dokunma Yoksa Bot Çalışşmaz.
 
-✨**Discord Sunucum :** `https://discord.gg/n7dD8pu9`
+Kod Paylaşım Yaptığım Discord Sunucum İçin Tıkla [Codeal](https://discord.gg/aarp75tjKK)
+
+Birbirinden Özel Altyapılar İçin Tıkla [BotClub](https://discord.gg/2KEAaybXyv)
+
+
+
+
