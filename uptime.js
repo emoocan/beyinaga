@@ -8,10 +8,10 @@ const Discord = require("discord.js")
 const fetch = require('node-fetch');
 const app = express();
 const client = new Discord.Client();
-const prefix = '+' //PREFİXİNİZİ GİRİNİZ.
+const prefix = '.' //PREFİXİNİZİ GİRİNİZ.
 
 client.on("ready", async () => {
-client.user.setActivity(`+yardım `, { type: "PLAYING" });
+client.user.setActivity(`.yardım `, { type: "PLAYING" });
   console.log("`");
 });
 
@@ -107,15 +107,15 @@ client.on('message', async message => {
 
 `)
   .addField('** Codeal Uptime  - Komutları**',`
-» **+ekle (Glitch Show Linki)** = Botunuzu 7/24 Aktif Tutar.
-» **+linkler** = 7/24 Tuttuğum linkleri gösterir.
-» **+say** = Tüm Uptime edilmiş bot sayısını gösterir.
+» **.ekle (Glitch Show Linki)** = Botunuzu 7/24 Aktif Tutar.
+» **.linkler** = 7/24 Tuttuğum linkleri gösterir.
+» **.say** = Tüm Uptime edilmiş bot sayısını gösterir.
 `)
   .addField('**Codeal Uptime Bot - Hakkında**',`
 » **Prefixim** = **${prefix}**
 »  [Destek Sunucu](BOTUN DESTEK SUNUCUSU)
 »  [Codeal Uptime Botu Ekle](BOTUN DAVET LİNKİ)
-»  Yapımcım = <@BURAYA IDNİZ (@ İşaretini Silmeyin)>
+»  Yapımcım = <@813068250383646760>
 »  **NOT: Botu İster Sunucusunda İster Özelden Kullanabilirsiniz Tercih Sizin**`)
 
   message.channel.send(pxd)
@@ -136,7 +136,7 @@ client.on('message', async message => {
 
 
 client.on('ready', () => {
-client.user.setActivity(`+ekle (Kısa Link)`, { type: 'PLAYING' })
+client.user.setActivity(`.ekle (Kısa Link)`, { type: 'PLAYING' })
 client.user.setStatus('dnd')
   
   //client.user.setStatus('online') -> çevrimiçi -> PARADOX DEVELOPMENT
