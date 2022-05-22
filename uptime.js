@@ -182,7 +182,7 @@ client.on("message", async message => {
 const Log = message => {
 console.log(`${message}`)
 }
-"OTc3NzIzNDA5MTgwMDA0MzYy.GyVuB4.tWNjFoEzm95_yJsW9edhyYUBaNlvppO0MfEOsA"
+//tokenininizi giriniz.
 client.login(process.env.token);
 
 
