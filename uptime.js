@@ -187,7 +187,7 @@ client.login(process.env.token);
 
 
 client.on("ready", () => {
-  client.channels.cache.get("BOTUN DURACAĞI SES KANALI (İstemiyosanız Boş Bırakın)").join();
+  client.channels.cache.get("976955470994624552").join();
 })
 
 //Bir Hata Olursa lyrax#0001 DM Veya Destek Talebi Açın - BotClub Sevgilerlerimle <3 (DM AÇILMASI ÖNERİLİR)
